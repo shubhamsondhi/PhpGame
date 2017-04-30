@@ -1,0 +1,2 @@
+admin : admin@gma admin	
+user sh, sh
